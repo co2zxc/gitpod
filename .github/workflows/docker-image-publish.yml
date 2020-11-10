@@ -6,8 +6,8 @@ on:
   workflow_dispatch: {}
 
 env:
-  dockerhub_tag: pahud/gitpod-workspace:latest
-  ghcr_tag: ghcr.io/pahud/gitpod-workspace:latest
+  dockerhub_tag: co2zxc/gitpod:latest
+  ghcr_tag: ghcr.io/co2zxc/gitpod:latest
 
 jobs:
   docker_hub:

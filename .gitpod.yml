@@ -3,8 +3,10 @@ github:
     pullRequestsFromForks: true
     addComment: true
     
-image: ghcr.io/pahud/gitpod-workspace:latest
+#image: ghcr.io/pahud/gitpod-workspace:latest
 #   file: .gitpod.Dockerfile
+image: 
+   file: .gitpod.Dockerfile
 
 
 vscode:
